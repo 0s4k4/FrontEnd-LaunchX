@@ -33,4 +33,4 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 ![](image/Target_Audience.jpg)
 
 ### 4) Wireframe UX
-![](image/wireframe.png)
+![](UX.pdf)
