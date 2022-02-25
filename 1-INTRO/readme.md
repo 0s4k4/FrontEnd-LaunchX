@@ -44,5 +44,5 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 
 ### 5) UI
 
-La UI se encuentra en figma, acceda al enlace de abajo
-[Toma de requerimientos](https://www.figma.com/file/InjRHK3HvpVEcufNGNNHjK/UX?node-id=0%3A1)
+La UI se encuentra en figma, acceda en este enlace
+[UI EN FIGMA](https://www.figma.com/file/InjRHK3HvpVEcufNGNNHjK/UX?node-id=0%3A1)
