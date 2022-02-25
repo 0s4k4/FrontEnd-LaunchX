@@ -1,5 +1,7 @@
 # FrontEnd-Mision-Training🚀
 
+Jorge Luis Piña Florencio Akka 0s4k4
+
 ### Prácticas de Intro a Frontend
 
 1. [Toma de requerimientos](https://github.com/0s4k4/FrontEnd-LaunchX/blob/main/1-INTRO/1.-Requerimientos%20Abogabot.doc)
@@ -39,3 +41,8 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 ![](image/wireframe4.png)
 ![](image/wireframe5.png)
 ![](image/wireframe6.png)
+
+### 5) UI
+
+La UI se encuentra en figma, acceda al enlace de abajo
+[Toma de requerimientos](https://www.figma.com/file/InjRHK3HvpVEcufNGNNHjK/UX?node-id=0%3A1)
