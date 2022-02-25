@@ -2,13 +2,13 @@
 
 ### Prácticas de Intro a Frontend
 
-1. [Toma de requerimientos](https://github.com/doguedogue/FrontEnd-Mision-Training/tree/main/Pr%C3%A1ctica%201/1.-Requerimientos%20Abogabot.doc)
+1. [Toma de requerimientos](https://github.com/0s4k4/FrontEnd-LaunchX/blob/main/1-INTRO/1.-Requerimientos%20Abogabot.doc)
 2. Buyer Persona
 3. Público objetivo
-4. ~~Wireframe UX~~
-5. ~~UI~~
+4. Wireframe UX
+5. UI
 
-### 1) [Toma de requerimientos](https://github.com/doguedogue/FrontEnd-Mision-Training/tree/main/Pr%C3%A1ctica%201/1.-Requerimientos%20Abogabot.doc)
+### 1) [Toma de requerimientos](https://github.com/0s4k4/FrontEnd-LaunchX/blob/main/1-INTRO/1.-Requerimientos%20Abogabot.doc)
 
 ### Caso: Abogabot
 
