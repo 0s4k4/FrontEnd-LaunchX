@@ -31,3 +31,6 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 ### 3) Público objetivo
 
 ![](image/Target_Audience.jpg)
+
+### 4) Wireframe UX
+![](image/wireframe.png)
