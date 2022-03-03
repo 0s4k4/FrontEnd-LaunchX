@@ -108,8 +108,8 @@ section p{
     text-align: justify;
 }
 
-footer{
-    background-color: rgba(30, 39, 46, 1.0);
+footer div{
+    background-color: rgba(30,39,46,1.0);
     color: #fff;
     text-align: center;
     width: 100%;

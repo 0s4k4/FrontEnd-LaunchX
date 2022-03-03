@@ -21,7 +21,6 @@
         <div class="container-fluid justify-content-center" id="barranav">
 
             <ul class="navbar-nav mb-2 mb-lg-0">
-
                 <li class="nav-item">
                     <a class="nav-link" href="index.html" id="form-contact">Inicio</a>
                 </li>
@@ -29,10 +28,19 @@
                     <a class="nav-link" href="productos.html" id="form-contact">Productos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contacto.html" id="form-contact">Pedidos</a>
+                    <a class="nav-link" href="pedido.html" id="form-contact">Pedidos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="estadisticas.html" id="form-contact">Estadisticas</a>
+                    <a class="nav-link" href="estadisticas.html" id="form-contact">Estadistiscas</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link"  href="sabores.html" id="form-contact">Sabores</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="adornos.html" id="form-contact">Adornos</a>
+                </li>   
+                <li>
+                    <a class="nav-link" href="nosotros.html" id="form-contact">Nosotros</a>
                 </li>
             </ul>
         </div>
@@ -44,13 +52,41 @@
             <input name="nombre" type="text" class="form-control" id="name" placeholder="Ingrese el nombre">
         </div>
         <div class="mb-3">
-            <label for="email" class="form-label">Contacto</label>
+            <label for="email" class="form-label">Correo</label>
             <input name="correo" type="email" class="form-control" id="email" placeholder="Ingrese el correo electronico">
         </div>
         <div class="mb-3">
-            <label for="message" class="form-label">Escriba su pedido</label>
-            <textarea name="pedido" class="form-control" id="message" placeholder="Pastel, adorno, etc" rows="3"></textarea>
+            <label for="email" class="form-label">Numero de telefono</label>
+            <input name="numero" type="number" class="form-control" id="email" placeholder="Ingrese Numero de telefono">
         </div>
+        <div class="mb-3">
+            <label for="message" class="form-label">Selecciona el producto que desea</label>
+            <select name="pedido" class="form-select form-select-lg mb-1" aria-label=".form-select-lg example">
+                <option selected>Productos</option>
+                <option value="1">Pastel Chico</option>
+                <option value="2">Pastel Mediano</option>
+                <option value="3">Pastel Grande</option>
+              </select>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-check-label" for="flexSwitchCheckDefault">Selecciona el sabor o sabores que deseas en tu pastel</label>
+            <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">Chocolate
+            <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">Vainilla
+            <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">Nuez
+            <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">Fresa
+            <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">Menta
+        </div>
+
+        <div class="mb-3">
+            <label class="form-check-label" for="flexSwitchCheckDefault">Selecciona el o los adornos que deseas en tu pastel</label>
+            <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">Carros
+            <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">Fubolista
+            <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">Anime
+            <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">Boda
+            <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">Escuela
+        </div>
+
 
         <button id="btn-1" type="submit" class="btn btn-outline-dark">Hacer pedido</button>
     </form>
